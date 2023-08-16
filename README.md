@@ -2,7 +2,7 @@
 
 **TechStack** - Microsoft Power BI
 
-**Link to** [Dashboard](https://www.novypro.com/project/hospitality-domain---revenue-insights-power-bi-1)
+**Link to** [Interactive Dashboard](https://www.novypro.com/project/hospitality-domain---revenue-insights-power-bi-1)
 
 **Statement of Problem**
 
